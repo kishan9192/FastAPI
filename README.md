@@ -1,2 +1,3 @@
 # FastAPI
-FastAPI todo list CRUD
+
+Todo list using Python, FastAPI, MongoDB. Supports CRUD operations.
